@@ -1,4 +1,4 @@
-# Benvnguts a la pàgina de tutorials per als usuaris de FP
+# Benvinguts a la pàgina de tutorials per als usuaris de FP
 
 Pàgina creada en mkdocs per a més informació [mkdocs.org](https://www.mkdocs.org). És important que utilitzeu els canals habituals per a comunicar-se.
 
