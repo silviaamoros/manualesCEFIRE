@@ -1,5 +1,5 @@
 # Nom del lloc
-site_name: Web estàtica amb mkdocs
+site_name: Breus tutotials per a la gent del CEFIRE
 
 # Carpeta amb el documents fot
 docs_dir: 'md'
