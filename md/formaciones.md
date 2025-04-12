@@ -1,6 +1,6 @@
 # Consideracions sobre la validació de noves formacions
 
-|Última versió|:material-tag:0.2 :date: 11/04/2025|
+|Ver.|:material-tag:0.2 :date: 11/04/2025|
 
 
 És important que abans d'enviar-nos qualsevol formació a validar tingueu en compte les següent coses
@@ -98,7 +98,7 @@ REQUISITOS ESPECÍFICOS
 
 Els bàners ja no s'afegixen amb codi html, caldrà que afegir l'iamtge directamenten la fitxa de la formació.
 
-[Afegir baner](./img/formaciones/1.png)
+![Afegir baner](./img/formaciones/1.png)
 
 Per a pujar un baner cal fer clic sobre el botó de pujar fitxer, seleccionar la imatge i fer clic a "pujar fitxer" (**és el botó blau**)
 
@@ -111,7 +111,11 @@ Els problemes més comuns que ens solem trobar són:
 * El pressupost té que estar correctament especficat.
 * No hi ha que posar centre coordinador.
 * Heu de deixar al menys una setmana per a confirmar la formació.
-* Podeu utlitzar ferramente com [Salt](https://salt.gva.es/auto/traductor-corrector/salt-correctorweb.html) o [Appertium](https://www.apertium.org/index.cat.html#?dir=spa-epo&q=) per a revisar l'ortografia i la gramàtica de la formació.
+
+Podeu utilitzar ferramentes com [Salt](https://salt.gva.es/auto/traductor-corrector/salt-correctorweb.html) (1) o [Appertium](https://www.apertium.org/index.cat.html#?dir=spa-epo&q=) per a revisar l'ortografia i la gramàtica de la formació.
+{ .annotate }
+
+1. :united_nations: Sempre és recomanable utilitzar SALT abans que Appertium, Salt està basat en Appertium, els resultats seran semblants.
 
 !!!danger "Important"
     Al perfil assegure-se d'agafar una formació que no herede ni continguts ni objectius, sino vos apareixerà al perfil de la vostra formació. Recordeu que Didàctica no té cap contingut ni objectiu (19FP43CF144), és la que s'ha utilitzat tradicionalment al CEFIRE de FP. 

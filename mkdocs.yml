@@ -17,10 +17,13 @@ nav:
   - Inici: index.md
   - Creació de sessió Teams: teams.md
   - Generar noves formacions: formaciones.md
+  - Comprova estat gestió econòmica: ge_comprova.md
 
 # Extenions
 markdown_extensions:
   - admonition
+  - footnotes
+  - tables
   - attr_list         # permet afegir atributs a les etiquetes html 
   # pymdownx és una col·leccio per escritura tècnica. S'instal·la per defecte
   - md_in_html
@@ -44,7 +47,7 @@ theme:
     annotation: material/arrow-right-circle 
   palette:
    # Boto que canvia a mode oscur
-    - scheme: default
+    - scheme: black
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -60,6 +63,8 @@ theme:
     - content.code.annotate
     - navigation.footer       # footer de la pagina, amb navegació
     - navigation.top    # boto flotant de tornar a dalt 
+    - content.footnote.tooltips
+
 
 # Altres afegits
 extra_css:
