@@ -16,22 +16,32 @@ dev_addr: localhost:4000
 nav:
   - Inici: index.md
   - Creació de sessió Teams: teams.md
+  - Generar noves formacions: formaciones.md
 
 # Extenions
 markdown_extensions:
   - admonition
   - attr_list         # permet afegir atributs a les etiquetes html 
   # pymdownx és una col·leccio per escritura tècnica. S'instal·la per defecte
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
-      linenums: true
-      anchor_linenums: true
-      auto_title: true
+      linenums: false
+      # anchor_linenums: true
+      # auto_title: true
 
 # Tema a triar
 theme: 
   name: material  # selecció del tema
+  icon:
+    annotation: material/arrow-right-circle 
   palette:
    # Boto que canvia a mode oscur
     - scheme: default
@@ -45,13 +55,18 @@ theme:
         name: Switch to light mode
   features:
     # utilitats de copia de codi
-  #  - content.code.copy 
-  #  - content.code.select
-  #  - content.code.annotate
+    - content.code.copy 
+    - content.code.select
+    - content.code.annotate
     - navigation.footer       # footer de la pagina, amb navegació
     - navigation.top    # boto flotant de tornar a dalt 
 
 # Altres afegits
+extra_css:
+  - overrides/styles.css
+
 plugins:
   - search      # plugin del quadre cerca
 #  - pdf-export  # plugin per exportar a pdf
+  - pdf-export
+  - badges
