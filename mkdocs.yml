@@ -17,13 +17,21 @@ nav:
   - Inici: index.md
   - Creació de sessió Teams: teams.md
   - Generar noves formacions: formaciones.md
-  - Comprova estat gestió econòmica: ge_comprova.md
+  - Gestió Econòmica:
+      - Comprova estat gestió econòmica: ge_comprova.md
+      - Protococolo minutas: protocolo_general_minutas_ge.md
+
 
 # Extenions
 markdown_extensions:
   - admonition
   - footnotes
   - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - attr_list         # permet afegir atributs a les etiquetes html 
   # pymdownx és una col·leccio per escritura tècnica. S'instal·la per defecte
   - md_in_html

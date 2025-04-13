@@ -23,7 +23,7 @@ A la carpeta s'ha d'assegurar que es contenen el següents documentos:
 * Designa signat pel Subdirector General de Formació del professorat.
 * Certifica signat pel Subdirector General de Formació del professorat..
 * Contracte menor si en te signat per MacEvoy.
-* Evidencies. Les evidencies han d'anar amb un PDF totes juntes:
+* Evidencies. **Les evidencies han d'anar amb un PDF totes juntes**:
     - Foto de la formació publicada a la web del CEFIRE on apareguen els logos de FSE.
     - Foto de la difusió de la formació a les xarxes socials o pàgina web on apareguen els logos de FSE.
     - Foto d'alguna sessió presencial on apareguen els logos de FSE.
@@ -39,13 +39,28 @@ A la carpeta s'ha d'assegurar que es contenen el següents documentos:
     Tota la documentació seguirà el següent patró de nom:
     
     - **Codi de la formació**_**DOCUMENT**_**NOM**.pdf, per exemple:
-        - `25FPXXCF0XX_CERTIFICA_**NOM**.pdf`
-        - `25FPXXCF0XX_ACTA_**NOM**.pdf`
-        - `25FPXXCF0XX_CONTRATOMENOR_**NOM_empresa**.pdf`
+        - `25FPXXCF0XX_CERTIFICA_**NOM_FORMACIÓ**.pdf`
+        - `25FPXXCF0XX_ACTA_**NOM_FORMACIÓ**.pdf`
+        - `25FPXXCF0XX_CONTRATOMENOR_**NOM_EMPRESA**.pdf`
         - `25FPXXCF0XX_EVIDENCIAS.pdf`
-        - `25FPXXCF0XX_FACTURA_**Nom_empresa**.pdf`
-        - `25FPXXCF0XX_FICHAEDICION_**NOM**.pdf` (Fitxa econòmica de l'edició)
-        - `25FPXXCF0XX_LISTPART_**NOM**.pdf` (Llistat de participants)
-        - `25FPXXCF0XX_MINUTA_**NOM**.pdf` (Minuta del ponent)
+        - `25FPXXCF0XX_FACTURA_**NOM_EMPRESA**.pdf`
+        - `25FPXXCF0XX_FICHAEDICION_**NOM_FORMACIÓ**.pdf` (Fitxa econòmica de l'edició)
+        - `25FPXXCF0XX_LISTPART_**NOM_FORMACIÓ**.pdf` (Llistat de participants)
+        - `25FPXXCF0XX_MINUTA_**NOM_PONENT**.pdf` (Minuta del ponent)
         - `25FPXXCF0XX_PARTFIRMAS.pdf` (Signatures del curs)
+        - `25FPXXCF0XX_FULLDADESPONENT.pdf` (Full dades del ponent)
+        - Si la formació és online es pujarà un fitxer .txt amb el el següent nom `ONLINE_NO_HAY_FIRMAS.txt`, que estarà buit.
+
+Caldrà afegir un document amb les següents dades d'exemple:
+
+![Exemple](./img/ge_comprova/1.png)
+
+Podeu descarregar-vos la plantilla d'ací:
+
+[Fitxer Plantilla](./Docs/Plantilla.docx){: .md-button target="_blank"}
+
+
+
+
+
 

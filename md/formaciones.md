@@ -119,3 +119,9 @@ Podeu utilitzar ferramentes com [Salt](https://salt.gva.es/auto/traductor-correc
 
 !!!danger "Important"
     Al perfil assegure-se d'agafar una formació que no herede ni continguts ni objectius, sino vos apareixerà al perfil de la vostra formació. Recordeu que Didàctica no té cap contingut ni objectiu (19FP43CF144), és la que s'ha utilitzat tradicionalment al CEFIRE de FP. 
+
+# Altra informació
+
+Podeu utilitzar el següent enllaç per a crear un baner (només formacions online):
+
+[:material-image-area: Baners](./external_html/baner/proves.html){: .md-button target="_blank"}

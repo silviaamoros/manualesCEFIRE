@@ -17,6 +17,7 @@ Pàgina creada en mkdocs per a més informació [mkdocs.org](https://www.mkdocs.
 ## Gestió econòmica
 
 * [Comprovació de carpetes de gestió econòmica](ge_comprova.md)
+* [Protocolo Minutas](protocolo_general_minutas_ge.md)
 
 ## Assistents Aules
 

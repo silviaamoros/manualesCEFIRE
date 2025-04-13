@@ -1,5 +1,7 @@
 # Recomanacions per a crear una sessió de Teams
 
+|Ver.|:material-tag:0.2 :date: 11/04/2025|
+
 !!!info "Introducció"
     Teams és una eina de Microsoft que permet la comunicació i la col·laboració en línia. Per a poder utilitzar-la, cal tindre una llicència de Microsoft 365. 
 
