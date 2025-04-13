@@ -69,7 +69,7 @@ La **Generalitat Valenciana**, a través de la Conselleria de Educación, Cultur
 
 ---
 
-## Esquema en Mermaid
+## Esquema
 
 ``` mermaid
 graph LR
