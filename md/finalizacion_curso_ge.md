@@ -12,18 +12,24 @@ Cuando finalice la formación, **toda la documentación económica** generada en
 ---
 
 ## Ficha de Gestión Económica
+
 Para cada formación/edición, se deberá completar una ficha de gestión económica que incluya:
+
 - Datos del curso.
 - Datos de los ponentes.
 - Precios desglosados.
 - Total.
+
 Utilizar el modelo de referencia indicado en los protocolos.
 
 ---
 
 ## Comprobaciones en GesForm
+
 Antes de proceder, es necesario realizar las siguientes verificaciones:
+
 - Filtrar y depurar información en las columnas:
+- 
   - **Descripción funcional NEFIS:** Código funcional asignado (421F00).
   - **Retención IRPF:** 15%.
   - **Pagos:** Comprobar las unidades de pago (por hora, unidad, factura, ponencia, certificados).
@@ -38,10 +44,13 @@ Antes de proceder, es necesario realizar las siguientes verificaciones:
 ---
 
 ## Comprobaciones en CEFIRE/Tercero
+
 ### Por el CEFIRE
+
 - Verificar que los datos y la cuenta bancaria del tercero en la minuta coincidan con el alta en PROPER. Solo puede haber una cuenta activa.
 
 ### Por el tercero
+
 - Darse de alta en PROPER con domiciliación bancaria.
 
 ---

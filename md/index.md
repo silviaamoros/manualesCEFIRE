@@ -18,6 +18,8 @@ Pàgina creada en mkdocs per a més informació [mkdocs.org](https://www.mkdocs.
 
 * [Comprovació de carpetes de gestió econòmica](ge_comprova.md)
 * [Protocolo Minutas](protocolo_general_minutas_ge.md)
+* [Protococolo facturas](protocolo_general_facturas_ge.md)
+* [Finalización de formaciones](finalizacion_curso_ge.md)
 
 ## Assistents Aules
 
