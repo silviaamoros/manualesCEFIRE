@@ -9,7 +9,7 @@
 
 
 !!!danger "Important"
-    Cal eliminar tot text en html, més enllà de l'especificat en per a afegir l'imatge del fons social europeu.
+    Cal eliminar tot text en html, més enllà de l'especificat per a afegir l'imatge del fons social europeu.
 
 ### OBSERVACIONS
 
@@ -94,7 +94,7 @@ REQUISITOS ESPECÍFICOS
 ### BANERS
 
 !!!danger "Important"
-    Cal tenir com a mínim la versió **1.42.5** de Gesform, si no disposeu d'eixa formació caldrà que la canvieu. És important treballar sempre amb l'última versió. S'enviaran al amteix temps a [fj.barredacentelle@edu.gva.es](mailto:fj.barredacentelle@edu.gva.es) per a que es penge a la web del CEFIRE.
+    Cal tenir com a mínim la versió **1.42.5** de Gesform, si no disposeu d'eixa formació caldrà que la canvieu. És important treballar sempre amb l'última versió. S'enviaran al amteix temps a [fj.barredacentelle@edu.gva.es](mailto:fj.barredacentelle@edu.gva.es) per a que els penge a la web del CEFIRE.
 
 Els bàners ja no s'afegixen amb codi html, caldrà que afegir l'imatge directament la fitxa de la formació.
 
