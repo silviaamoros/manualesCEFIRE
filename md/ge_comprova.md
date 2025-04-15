@@ -53,7 +53,7 @@ A la carpeta s'ha d'assegurar que es contenen el següents documentos:
         - Si la formació és online es pujarà un fitxer .txt amb el el següent nom `ONLINE_NO_HAY_FIRMAS.txt`, que estarà buit.
 
 !!!important "Fitxa econòmica"
-    És imprescindible indicar a la fitxa econòmica si són funcionaris o no, i assegurar-se que els codis són els correctes a Gesform. 233.01 si són funcionaris i 226.06 si no són funcionaris.
+    És imprescindible indicar a la fitxa econòmica si són funcionaris o no, i assegurar-se que els codis són els correctes a Gesform. 233.01 si són funcionaris i 226.06 si són factures o no són funcionaris.
 
 
 Caldrà afegir un document amb les següents dades d'exemple:

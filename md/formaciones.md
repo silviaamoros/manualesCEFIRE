@@ -94,9 +94,9 @@ REQUISITOS ESPECÍFICOS
 ### BANERS
 
 !!!danger "Important"
-    Cal tenir com a mínim la versió **1.42.5** de Gesform, si no disposeu d'eixa formació caldrà que la canvieu. És important treballar sempre amb l'última versió.
+    Cal tenir com a mínim la versió **1.42.5** de Gesform, si no disposeu d'eixa formació caldrà que la canvieu. És important treballar sempre amb l'última versió. S'enviaran al amteix temps a [fj.barredacentelle@edu.gva.es](mailto:fj.barredacentelle@edu.gva.es) per a que es penge a la web del CEFIRE.
 
-Els bàners ja no s'afegixen amb codi html, caldrà que afegir l'iamtge directamenten la fitxa de la formació.
+Els bàners ja no s'afegixen amb codi html, caldrà que afegir l'imatge directament la fitxa de la formació.
 
 ![Afegir baner](./img/formaciones/1.png)
 
