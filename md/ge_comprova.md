@@ -7,7 +7,7 @@
 
 1. Cal estar autenticat amb el correu de la Conselleria d'educació.
 
-[:material-file-excel-box: Excel](https://gvaedu-my.sharepoint.com/:x:/r/personal/ar_vicenteboix_edu_gva_es/Documents/GESTI%C3%93%20ECON%C3%92MICA%20CEFIRE%20FP/Full_de_control_estat.xlsx?d=w460b25e6cc9d408b81b84ac025e16f28&csf=1&web=1&e=fSUHvH){: .md-button target="_blank"}
+[:material-file-excel-box: Excel](https://gvaedu-my.sharepoint.com/:x:/r/personal/ar_vicenteboix_edu_gva_es/_layouts/15/Doc.aspx?sourcedoc=%7B3EAC1ABB-CA4F-471F-924F-205086DEC715%7D&file=Full_de_control_estat%20-%20copia.xlsx&wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&action=default&mobileredirect=true){: .md-button target="_blank"}
 
 
 !!!important "Accés al fitxer"
