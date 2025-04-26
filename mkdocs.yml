@@ -15,13 +15,16 @@ dev_addr: localhost:4000
 #   - Títol: Document.md
 nav:
   - Inici: index.md
-  - Creació de sessió Teams: teams.md
-  - Generar noves formacions: formaciones.md
+  - Tutorials generals:
+      - Creació de sessió Teams: teams.md
   - Gestió Econòmica:
       - Comprova estat gestió econòmica: ge_comprova.md
       - Protococolo minutas: protocolo_general_minutas_ge.md
       - Protococolo facturas: protocolo_general_facturas_ge.md
       - Finalización de formaciones: finalizacion_curso_ge.md
+  - Gesform - Formacions:
+      - Generar noves formacions: formacions/formaciones.md
+      - Procés de vida d'una formació: formacions/proces_vida_formacio.md
 
 
 # Extenions
@@ -79,6 +82,7 @@ theme:
 # Altres afegits
 extra_css:
   - overrides/styles.css
+  
 
 plugins:
   - search      # plugin del quadre cerca

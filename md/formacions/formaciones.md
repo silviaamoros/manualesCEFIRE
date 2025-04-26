@@ -98,7 +98,7 @@ REQUISITOS ESPECÍFICOS
 
 Els bàners ja no s'afegixen amb codi html, caldrà que afegir l'imatge directament la fitxa de la formació.
 
-![Afegir baner](./img/formaciones/1.png)
+![Afegir baner](../img/formaciones/1.png)
 
 Per a pujar un baner cal fer clic sobre el botó de pujar fitxer, seleccionar la imatge i fer clic a "pujar fitxer" (**és el botó blau**)
 
@@ -124,4 +124,4 @@ Podeu utilitzar ferramentes com [Salt](https://salt.gva.es/auto/traductor-correc
 
 Podeu utilitzar el següent enllaç per a crear un baner (només formacions online):
 
-[:material-image-area: Baners](./external_html/baner/proves.html){: .md-button target="_blank"}
+[:material-image-area: Baners](../external_html/baner/proves.html){: .md-button target="_blank"}

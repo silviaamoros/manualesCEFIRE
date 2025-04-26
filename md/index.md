@@ -12,7 +12,7 @@ Pàgina creada en mkdocs per a més informació [mkdocs.org](https://www.mkdocs.
 
 ## Tutorials Gesform
 
-* [Noves consideracions sobre formacions](formaciones.md)
+* [Noves consideracions sobre formacions](formacions/formaciones.md)
 
 ## Gestió econòmica
 

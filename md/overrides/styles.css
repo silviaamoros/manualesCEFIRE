@@ -3,3 +3,9 @@ pre, code {
     word-wrap: break-word; /* Rompe las palabras largas en caso necesario */
     overflow-x: hidden; /* Evita el desplazamiento horizontal */
 }
+
+table {
+    margin: 0 auto;
+    text-align: center;
+}
+  
