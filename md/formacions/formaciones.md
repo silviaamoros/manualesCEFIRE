@@ -9,34 +9,39 @@
 
 
 !!!danger "Important"
-    Cal eliminar tot text en html, més enllà de l'especificat per a afegir l'imatge del fons social europeu.
+    Cal eliminar tot text en html, més enllà de l'especificat per a afegir l'imatge del fons social europeu. Utilitzeu de base la formació 19FP43CF144 (Didàctica).
 
 ### OBSERVACIONS
 
 **Valencià**
 ```html
  
-<img src=" https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>
+<img src=" https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>  
 
-<b>Aquesta activitat formativa està cofinançada pel Fons Social Europeu. L'FSE inverteix en el teu futur</b> 
+<b>Aquesta activitat formativa està cofinançada pel Fons Social Europeu. L'FSE inverteix en el teu futur</b>  
 
-Els cursos d'Administracions Públiques segons la RESOLUCIÓ de 5 de febrer de 2024, de la Direcció General de Funció Pública, per la qual es convoquen les accions formatives incloses en el Pla de formació del personal al servici de la Generalitat per a l'exercici 2024, van dirigits a:
-
-Primera. Persones destinatàries
-Poden participar en les activitats formatives indicades en l'annex I d'esta resolució el personal al servici de l'Administració de la Generalitat, gestionat per la Direcció General de Funció Pública, que reunisca els requisits específics establits, si és el cas, en cada activitat.
+1. Acompliment d'un lloc de treball relacionat directament amb la temàtica de l'activitat
+2. Professorat d'especialitats docents relacionades directament amb la temàtica de l'activitat
+3. Ordre d'inscripció seguint el següent criteri:
+a) Personal docent en actiu en centres sostinguts amb fons públics. (De titularitat pública i privats concertats. Art. 108 LOE 2/2006)
+b) Personal tècnic educatiu en actiu en centres sostinguts amb fons públics. (De titularitat pública i privats concertats. Art. 108 LOE 2/2006)
+c) Personal inscrit en alguna de les borses de personal docent de la Conselleria d'Educació, Formació i Ocupació
+d) Resta del professorat
 ```
 **Castellà**
 ```html
  
-<img src="https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br> 
+<img src="https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>  
 
-<b>Esta actividad formativa está cofinanciada por el Fondo Social Europeo. El FSE invierte en tu futuro</b>   
+<b>Esta actividad formativa está cofinanciada por el Fondo Social Europeo. El FSE invierte en tu futuro</b>  
 
-
-Los cursos de Administraciones Públicas según la RESOLUCIÓN de 5 de febrero de 2024, de la Dirección General de Función Pública, por la que se convocan las acciones formativas incluidas en el Plan de formación del personal al servicio de la Generalitat para el ejercicio 2024, van dirigidos a:
-
-Primera. Personas destinatarias
-Pueden participar en las actividades formativas indicadas en el anexo I de esta resolución el personal al servicio de la Administración de la Generalitat, gestionado por la Dirección General de Función Pública, que reúna los requisitos específicos establecidos, si es el caso, en cada actividad
+1. Desempeño de un puesto de trabajo relacionado directamente con la temática de la actividad
+2. Profesorado de especialidades docentes relacionadas directamente con la temática de la actividad
+3. Orden de inscripción siguiendo el siguiente criterio:
+a) Personal docente en activo en centros sostenidos con fondos públicos. (De titularidad pública y privados concertados. Art. 108 LOE 2/2006)
+b) Personal técnico educativo en activo en centros sostenidos con fondos públicos. (De titularidad pública y privados concertados. Art. 108 LOE 2/2006)
+c) Personal inscrito en alguna de las bolsas de personal docente de la Conselleria de Educación, Formación y Empleo
+d) Resto del profesorado
 ```
 
 ### CONDICIONS
