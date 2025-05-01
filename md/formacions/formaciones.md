@@ -3,9 +3,12 @@
 |Ver.|:material-tag:0.2 :date: 11/04/2025|
 
 
-És important que abans d'enviar-nos qualsevol formació a validar tingueu en compte les següent coses
+És important que abans d'enviar-nos qualsevol formació a validar tingueu en compte les següent coses:
 
 ## Assegureu-se que el text és el correcte
+
+* Tingueu en compte la família profesional quan poseu el codi i que coincidisca amb la família profesional de la formació.
+* Respecteu les normes d'estil que marca la Subdirecció General de Formació del Professorat. 
 
 
 !!!danger "Important"
@@ -13,59 +16,38 @@
 
 ### OBSERVACIONS
 
+Es detallen les especificitats en el calendari, sessions síncrones, asíncrones, materials, etc.
+
 **Valencià**
 ```html
  
-<img src=" https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>  
-
-<b>Aquesta activitat formativa està cofinançada pel Fons Social Europeu. L'FSE inverteix en el teu futur</b>  
-
-1. Acompliment d'un lloc de treball relacionat directament amb la temàtica de l'activitat
-2. Professorat d'especialitats docents relacionades directament amb la temàtica de l'activitat
-3. Ordre d'inscripció seguint el següent criteri:
-a) Personal docent en actiu en centres sostinguts amb fons públics. (De titularitat pública i privats concertats. Art. 108 LOE 2/2006)
-b) Personal tècnic educatiu en actiu en centres sostinguts amb fons públics. (De titularitat pública i privats concertats. Art. 108 LOE 2/2006)
-c) Personal inscrit en alguna de les borses de personal docent de la Conselleria d'Educació, Formació i Ocupació
-d) Resta del professorat
+El curs es realitzarà en la modalitat a distància. La realització de totes les tasques és obligatòria per obtindre la certificació. Serà obligatori accedir a l'aula virtual del curs durant els tres primers dies des de l'inici. 
 ```
 **Castellà**
 ```html
  
-<img src="https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>  
-
-<b>Esta actividad formativa está cofinanciada por el Fondo Social Europeo. El FSE invierte en tu futuro</b>  
-
-1. Desempeño de un puesto de trabajo relacionado directamente con la temática de la actividad
-2. Profesorado de especialidades docentes relacionadas directamente con la temática de la actividad
-3. Orden de inscripción siguiendo el siguiente criterio:
-a) Personal docente en activo en centros sostenidos con fondos públicos. (De titularidad pública y privados concertados. Art. 108 LOE 2/2006)
-b) Personal técnico educativo en activo en centros sostenidos con fondos públicos. (De titularidad pública y privados concertados. Art. 108 LOE 2/2006)
-c) Personal inscrito en alguna de las bolsas de personal docente de la Conselleria de Educación, Formación y Empleo
-d) Resto del profesorado
+El curso se realizará en la modalidad a distancia. La realización de todas las tareas es obligatoria para obtener la certificación. Será obligatorio acceder al aula virtual del curso durante los tres primeros días desde el inicio.
 ```
 
 ### CONDICIONS
 
-
 **Valencià**
 ```html
  
-Acompliment d'un lloc de treball relacionat directament amb la temàtica de l'activitat  
-Professorat d'especialitats docents relacionades directament amb la temàtica de l'activitat
-
-Ordre d'inscripció seguint el següent criteri:  
+1. Acompliment d'un lloc de treball relacionat directament amb la temàtica de l'activitat  
+2. Professorat d'especialitats docents relacionades directament amb la temàtica de l'activitat
+3. Ordre d'inscripció seguint el següent criteri:  
   Personal docent en actiu en centres sostinguts amb fons públics. (De titularitat pública i privats concertats. Art. 108 LOE 2/2006)  
   Personal tècnic educatiu en actiu en centres sostinguts amb fons públics. (De titularitat pública i privats concertats. Art. 108 LOE 2/2006)  
   Personal inscrit en alguna de les bosses de personal docent de la Conselleria d'Educació, Universitats i Ocupació  
-  Resta del professorat  
+  Resta del professorat
 ```
 
 **Castellà**
 ```html 
-Desempeño de un puesto de trabajo relacionado directamente con la temática de la actividad  
-Profesorado de especialidades docentes relacionadas directamente con la temática de la actividad
-
-Orden de inscripción siguiendo el siguiente criterio:  
+1. Desempeño de un puesto de trabajo relacionado directamente con la temática de la actividad  
+2. Profesorado de especialidades docentes relacionadas directamente con la temática de la actividad
+3. Orden de inscripción siguiendo el siguiente criterio:  
   Personal docente en activo en centros sostenidos con fondos públicos. (De titularidad pública y privados concertados. Art. 108 LOE 2/2006)  
   Personal técnico educativo en activo en centros sostenidos con fondos públicos. (De titularidad pública y privados concertados. Art. 108 LOE 2/2006)  
   Personal inscrito en alguna de las bolsas de personal docente de la Conselleria de Educación, Universidades y Empleo  
@@ -73,6 +55,8 @@ Orden de inscripción siguiendo el siguiente criterio:
 ```
 
 ### DIRIGIDO A
+
+Es detallen en cas que les activitats de formació estiguen destinades a professorat d'etapes determinades o col·lectius específics.
 
 !!!danger "Important"
     Cal cambiar la família d'informàtica i comunicacions per la que corresponga a la formació que es va a validar.

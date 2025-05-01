@@ -25,6 +25,7 @@ nav:
   - Gesform - Formacions:
       - Generar noves formacions: formacions/formaciones.md
       - Procés de vida d'una formació: formacions/proces_vida_formacio.md
+      - FAQ: formacions/FAQ.md
 
 
 # Extenions

@@ -13,6 +13,8 @@ Pàgina creada en mkdocs per a més informació [mkdocs.org](https://www.mkdocs.
 ## Tutorials Gesform
 
 * [Noves consideracions sobre formacions](formacions/formaciones.md)
+* [Procés de vida formació](formacions/proces_vida_formacio.md)
+* [Noves consideracions sobre formacions](formacions/FAQ.md)
 
 ## Gestió econòmica
 
