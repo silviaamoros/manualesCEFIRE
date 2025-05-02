@@ -105,6 +105,8 @@ Els problemes més comuns que ens solem trobar són:
 * El pressupost té que estar correctament especficat.
 * No hi ha que posar centre coordinador.
 * Heu de deixar al menys una setmana per a confirmar la formació.
+* Reviseu bé les tarifes de la fitxa econòmica. [Tarifes 2024.](https://gvaedu.sharepoint.com/:b:/r/sites/Section_46402871-C/Documentos%20compartidos/COORDINACI%C3%93N%20DGFP%20CEFIRE%20FP/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/TARIFAS_SEPTIEMBRE%202024_modif._firmado.pdf?csf=1&web=1&e=jZGLTq)
+
 
 Podeu utilitzar ferramentes com [Salt](https://salt.gva.es/auto/traductor-corrector/salt-correctorweb.html) (1) o [Appertium](https://www.apertium.org/index.cat.html#?dir=spa-epo&q=) per a revisar l'ortografia i la gramàtica de la formació.
 { .annotate }
