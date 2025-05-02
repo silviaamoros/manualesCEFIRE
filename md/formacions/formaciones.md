@@ -18,6 +18,9 @@
 
 Es detallen les especificitats en el calendari, sessions síncrones, asíncrones, materials, etc.
 
+!!!danger "Important"
+    Este text és un example de formació online amb FSE. Si no és FSE no cal posar els logos.
+
 **Valencià**
 ```html
 <img src=" https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>  
