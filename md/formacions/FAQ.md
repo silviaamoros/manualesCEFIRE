@@ -1,5 +1,7 @@
 # QÜESTIONS MÉS FREQUENTS SOBRE LA FORMACIÓ DEL PROFESSORAT
 
+|Ver.|:material-tag:0.1 :date: 02/05/2025|
+
 A continuació teniu un recull de qüestions que es poden anar fent al llarg del curs. Faciliteu aquelles respostes que considereu pertinents i que puguen ser d'ajuda per a la resta de companys i companyes.
  
 
