@@ -20,12 +20,14 @@ Es detallen les especificitats en el calendari, sessions síncrones, asíncrones
 
 **Valencià**
 ```html
- 
+<img src=" https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>  
+<b>Aquesta activitat formativa està cofinançada pel Fons Social Europeu. L'FSE inverteix en el teu futur</b>
 El curs es realitzarà en la modalitat a distància. La realització de totes les tasques és obligatòria per obtindre la certificació. Serà obligatori accedir a l'aula virtual del curs durant els tres primers dies des de l'inici. 
 ```
 **Castellà**
 ```html
- 
+<img src="https://portal.edu.gva.es/cefirefp/wp-content/uploads/sites/188/2023/10/ES-Cofinanciado-por-la-Union-Europea_POS.jpg" width="298" height="68" alt="Fondo Social Europeo"><br>  
+<b>Esta actividad formativa está cofinanciada por el Fondo Social Europeo. El FSE invierte en tu futuro</b>
 El curso se realizará en la modalidad a distancia. La realización de todas las tareas es obligatoria para obtener la certificación. Será obligatorio acceder al aula virtual del curso durante los tres primeros días desde el inicio.
 ```
 
