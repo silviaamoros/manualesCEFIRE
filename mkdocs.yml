@@ -15,17 +15,19 @@ dev_addr: localhost:4000
 #   - Títol: Document.md
 nav:
   - Inici: index.md
-  - Tutorials generals:
-      - Creació de sessió Teams: teams.md
-  - Gestió Econòmica:
-      - Comprova estat gestió econòmica: ge_comprova.md
-      - Protococolo minutas: protocolo_general_minutas_ge.md
-      - Protococolo facturas: protocolo_general_facturas_ge.md
-      - Finalización de formaciones: finalizacion_curso_ge.md
-  - Gesform - Formacions:
+  - Formacions:
       - Generar noves formacions: formacions/formaciones.md
       - Procés de vida d'una formació: formacions/proces_vida_formacio.md
       - FAQ: formacions/FAQ.md
+  - ERESAR:
+      - ERESAR: eresar/eresar.md
+  - Tutorials generals:
+      - Creació de sessió Teams: teams.md
+  - Gestió Econòmica:
+    - Comprova estat gestió econòmica: ge_comprova.md
+    - Protococolo minutas: protocolo_general_minutas_ge.md
+    - Protococolo facturas: protocolo_general_facturas_ge.md
+    - Finalización de formaciones: finalizacion_curso_ge.md
 
 
 # Extenions
