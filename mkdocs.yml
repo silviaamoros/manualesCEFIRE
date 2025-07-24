@@ -18,7 +18,7 @@ nav:
   - Formacions:
       - Generar noves formacions:
         - General: formacions/generar_formacio.md
-        - En Gesform:
+        - En Gesform Antes de la Formación:
           - FSE: formacions/fse.md
           - Skills: formacions/skills.md
           - PAA: formacions/paa.md
