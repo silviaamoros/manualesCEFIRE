@@ -1,6 +1,5 @@
 # Comprovació de carpetes de gestió econòmica
 
-|Ver.|:material-tag:0.1 :date: 11/04/2025|
 
 És important que reviseu tota la informació de les carpetes que heu anat pujant al Teams del CEFIRE. En primer lloc, caldrà revisar totes les formacions que s'han realitzat fins ara. El control de les formacions es farà a través del següent document Excel (1) on es troben totes les formacions i els espais que cal revisar:
 { : .annotate }

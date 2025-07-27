@@ -17,12 +17,15 @@ nav:
   - Inici: index.md
   - Formacions:
       - Generar noves formacions:
-        - General: formacions/generar_formacio.md
-        - En Gesform Antes de la Formación:
+        - Introducció: formacions/generar_formacio.md
+        - Tutorial de Gesform: formacions/alta_formacion.md
+        - Antes de la Formación:
           - FSE: formacions/fse.md
           - Skills: formacions/skills.md
           - PAA: formacions/paa.md
           - C19: formacions/c19.md
+        - Durante de la Formación: formacions/durante_formacion.md
+        - Después de la Formación: formacions/despues_formacion.md
       - Procés de vida d'una formació:
         - General: formacions/proces_vida_formacio.md
       - FAQ: formacions/FAQ.md
@@ -98,4 +101,4 @@ plugins:
   - search      # plugin del quadre cerca
 #  - pdf-export  # plugin per exportar a pdf
   - pdf-export
-  - badges
+  - autorefs
