@@ -145,7 +145,7 @@ I **Apliquem** i **Acceptem.**
 
 Una vegada estiga validat el curs tant per part del director com per part de la SDGFP, ja es podrà publicar i començar a gestionar les inscripcions. No em d'oblidar que si el curs és online a AULES caldrà demanar l'espai en AULES.
 
-[:simple-moodle: Demanar espai en Aules](https://forms.office.com/pages/responsepage.aspx?id=FBHdc33vx0CGaVadMufim4P9l-8HwURGslHVd49kW6BUQVk3OFgzOVBZRVpaR1JRSFk3NjIwMkpaSS4u&route=shorturl){: .md-button target="_blank"}
+[:material-link-box: Demanar espai en Aules](https://forms.office.com/pages/responsepage.aspx?id=FBHdc33vx0CGaVadMufim4P9l-8HwURGslHVd49kW6BUQVk3OFgzOVBZRVpaR1JRSFk3NjIwMkpaSS4u&route=shorturl){: .md-button target="_blank"}
 
 ## PASSAR A CONFIRMAR UN CURS I BAREM
 
