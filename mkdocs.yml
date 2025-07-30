@@ -17,9 +17,9 @@ nav:
   - Inici: index.md
   - Formacions:
       - Generar noves formacions:
-        - Introducció: formacions/generar_formacio.md
+        - Introducció (abans de la formació): formacions/introduccio.md
         - Tutorial de Gesform: formacions/alta_formacion.md
-        - Antes de la Formación:
+        - Consideracions de les Formacions:
           - FSE: formacions/fse.md
           - Skills: formacions/skills.md
           - PAA: formacions/paa.md
@@ -98,7 +98,6 @@ extra_css:
   
 
 plugins:
-  - search      # plugin del quadre cerca
-#  - pdf-export  # plugin per exportar a pdf
+  - search
   - pdf-export
   - autorefs

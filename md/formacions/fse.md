@@ -1,4 +1,4 @@
-# Fon Social Europeu (FSE)
+# Fons Social Europeu (FSE)
 
 En aquest document vo detallem quin és el text que cal posar en les formacions que estan cofinançades pel Fons Social Europeu (FSE).
 
@@ -7,7 +7,7 @@ En aquest document vo detallem quin és el text que cal posar en les formacions 
 ## Assegureu-se que el text és el correcte
 
 * Tingueu en compte la família profesional quan poseu el codi i que coincidisca amb la família profesional de la formació.
-* Respecteu les normes d'estil que marca la Subdirecció General de Formació del Professorat. 
+* Respecteu les normes d'estil que marca la Subdirecció General de Formació del Professorat. Les podeu trobar ací: [Normes d'estil](https://gvaedu.sharepoint.com/:b:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/Normas%20estilo%20GESFORM_CAS_1.0_6_3_23.pdf?csf=1&web=1&e=DhabUu)
 
 
 !!!danger "Important"
@@ -78,7 +78,7 @@ REQUISITS ESPECÍFICS
 ```html
 Personal docente y personal técnico educativo con destino en centros educativos no universitarios de la Comunitat Valenciana en los que se impartan las enseñanzas reguladas por la Ley Orgánica de Educación
 Personal docente y personal técnico educativo que presta servicios técnicos de apoyo educativo en los centros indicados en el apartado anterior 
-Personal que haya finalizado los grados y máster que conducen a la obtención de la titulación docente, siempre que se encuentran inscritos en alguna de las bolsas de personal docente de la Consellería de Educación, Universidades y Ocupación y este personal no suponga más del 50% de participación en la actividad 
+Personal que haya finalizado los grados y máster que conducen a la obtención de la titulación docente, siempre que se encuentran inscritos en alguna de las bolsas de personal docente de la CConselleria d'Educació, Universitats i Ocupació y este personal no suponga más del 50% de participación en la actividad 
 REQUISITOS ESPECÍFICOS 
 <b>Profesorado de Formación Profesional de la Familia de Informática y Comunicaciones y EAE</b> 
 
@@ -87,7 +87,7 @@ REQUISITOS ESPECÍFICOS
 ### BANERS
 
 !!!danger "Important"
-    Cal tenir com a mínim la versió **1.42.5** de Gesform, si no disposeu d'eixa formació caldrà que la canvieu. És important treballar sempre amb l'última versió. S'enviaran al amteix temps a [fj.barredacentelle@edu.gva.es](mailto:fj.barredacentelle@edu.gva.es) per a que els penge a la web del CEFIRE.
+    Cal tenir com a mínim la versió **1.42.10** de Gesform, si no disposeu d'eixa formació caldrà que la canvieu. És important treballar sempre amb l'última versió. Els Banner caldrà posar-los en la [carpeta corresponent](https://gvaedu.sharepoint.com/:f:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/BANERS?csf=1&web=1&e=j5fHpR)
 
 Els bàners ja no s'afegixen amb codi html, caldrà que afegir l'imatge directament la fitxa de la formació.
 
@@ -100,12 +100,12 @@ Per a pujar un baner cal fer clic sobre el botó de pujar fitxer, seleccionar la
 Els problemes més comuns que ens solem trobar són:
 
 * Assegureu-se que la formació no té cap error d'ortografia, tant en el títol com en la descripció.
-* Assegureu-se que heu afegit correctament la imatge correcta de la formació i que **Paco** l'ha validada correctament.
-* El pressupost té que estar correctament especficat.
-* No hi ha que posar centre coordinador.
+* Assegureu-se que heu afegit correctament la imatge correcta de la formació i que algun company l'ha validada correctament.
+* El pressupost té que estar correctament especificat.
+* No hi ha que posar centre coordinador mai.
 * Heu de deixar al menys una setmana per a confirmar la formació.
-* Reviseu bé les tarifes de la fitxa econòmica. [Tarifes 2025.](https://gvaedu.sharepoint.com/:b:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/GESTI%C3%93N%20ECON%C3%93MICA/TARIFAS/TARIFAS_JUNIO_%202025_firmado.pdf?csf=1&web=1&e=Jbx6zG)
-* I el corresponent ANNEX. [Annex Tarifes 2025.](https://gvaedu.sharepoint.com/:b:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/GESTI%C3%93N%20ECON%C3%93MICA/TARIFAS/ANEXO%20TARIFAS.pdf?csf=1&web=1&e=nlhr2w)
+* Reviseu bé les tarifes de la fitxa econòmica. [Tarifes 2025.](https://gvaedu.sharepoint.com/:b:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/GESTI%C3%93N%20ECON%C3%93MICA/TARIFAS/TARIFAS_JUNIO_%202025_firmado.pdf?csf=1&web=1&e=pEZneE)
+* I el corresponent ANNEX. [Annex Tarifes 2025.](https://gvaedu.sharepoint.com/:b:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/GESTI%C3%93N%20ECON%C3%93MICA/TARIFAS/ANEXO%20TARIFAS.pdf?csf=1&web=1&e=S5exhl)
 
 
 Podeu utilitzar ferramentes com [Salt](https://salt.gva.es/auto/traductor-corrector/salt-correctorweb.html) (1) o [Appertium](https://www.apertium.org/index.cat.html#?dir=spa-epo&q=) per a revisar l'ortografia i la gramàtica de la formació.
@@ -114,10 +114,10 @@ Podeu utilitzar ferramentes com [Salt](https://salt.gva.es/auto/traductor-correc
 1. :united_nations: Sempre és recomanable utilitzar SALT abans que Appertium, Salt està basat en Appertium, els resultats seran semblants.
 
 !!!danger "Important"
-    Al perfil assegure-se d'agafar una formació que no herede ni continguts ni objectius, sino vos apareixerà al perfil de la vostra formació. Recordeu que Didàctica no té cap contingut ni objectiu (19FP43CF144), és la que s'ha utilitzat tradicionalment al CEFIRE de FP. 
+    Al perfil **assegure-se d'agafar una formació que no herede ni continguts ni objectius**, sino vos apareixerà al perfil de la vostra formació. Recordeu que **Didàctica** no té cap contingut ni objectiu (19FP43CF144), és la que s'ha utilitzat tradicionalment al CEFIRE de FP. 
 
 # Altra informació
 
-Podeu utilitzar el següent enllaç per a crear un baner (només formacions online):
+Podeu utilitzar el següent enllaç per a crear un baner (només formacions online de moment):
 
 [:material-image-area: Baners](../external_html/baner/proves.html){: .md-button target="_blank"}
