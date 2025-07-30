@@ -1,0 +1,1 @@
+# Aspectes tenir en compte després de la realització de la formació

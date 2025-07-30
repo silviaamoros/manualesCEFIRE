@@ -24,8 +24,8 @@ nav:
           - Skills: formacions/skills.md
           - PAA: formacions/paa.md
           - C19: formacions/c19.md
-        - Durante de la Formación: formacions/durante_formacion.md
-        - Después de la Formación: formacions/despues_formacion.md
+        - Durante de la Formación: formacions/durant_formacio.md
+        - Después de la Formación: formacions/despres_formacio.md
       - Procés de vida d'una formació:
         - General: formacions/proces_vida_formacio.md
       - FAQ: formacions/FAQ.md

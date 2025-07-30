@@ -18,7 +18,7 @@ En aquest document vo detallem quin és el text que cal posar en les formacions 
 Es detallen les especificitats en el calendari, sessions síncrones, asíncrones, materials, etc.
 
 !!!danger "Important"
-    Este text és un example de formació online amb Skills.
+    Este text és un example de formació online amb Skills. Encara que pose FSE són fons indirectament relacionat amb Europa
 
 **Valencià**
 ```html
@@ -36,8 +36,7 @@ El curso se realizará en la modalidad a distancia. La realización de todas las
 ### CONDICIONS
 
 **Valencià**
-```html
- 
+```html 
 1. Acompliment d'un lloc de treball relacionat directament amb la temàtica de l'activitat  
 2. Professorat d'especialitats docents relacionades directament amb la temàtica de l'activitat
 3. Ordre d'inscripció seguint el següent criteri:  
@@ -72,7 +71,7 @@ Personal docent i personal tècnic educatiu amb destinació en centres educatius
 Personal docent i personal tècnic educatiu que preste servicis tècnics de suport educatiu als centres indicats en l'apartat anterior 
 Personal que haja finalitzat els graus i màster que conduïxen a l'obtenció de la titulació docent, sempre que es troben inscrits en alguna de les bosses de personal docent de la Conselleria d'Educació, Universitats i Ocupació i este personal no supose més del 50% de participació en l'activitat 
 REQUISITS ESPECÍFICS 
-<b>Professorat de Formació Professional de la Família d'Informàtica i Comunicacions i EAE</b> 
+<b>Professorat de Formació Professional de la Família d'Informàtica i Comunicacions</b> 
 ```
 **Castellà**
 ```html
@@ -80,7 +79,7 @@ Personal docente y personal técnico educativo con destino en centros educativos
 Personal docente y personal técnico educativo que presta servicios técnicos de apoyo educativo en los centros indicados en el apartado anterior 
 Personal que haya finalizado los grados y máster que conducen a la obtención de la titulación docente, siempre que se encuentran inscritos en alguna de las bolsas de personal docente de la CConselleria d'Educació, Universitats i Ocupació y este personal no suponga más del 50% de participación en la actividad 
 REQUISITOS ESPECÍFICOS 
-<b>Profesorado de Formación Profesional de la Familia de Informática y Comunicaciones y EAE</b> 
+<b>Profesorado de Formación Profesional de la Familia de Informática y Comunicaciones</b> 
 
 ```
  

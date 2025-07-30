@@ -52,10 +52,10 @@ Després cal tenir clar el pagament dels ponents. Hi ha varies casuístiques a l
 * **Ponent de la GVA**: És l'opció més recomanable de totes per a fer pagament, és la menys problemes dona i només cal fer la FITXA ECONÒMICA i especificar-ho en observacions.
 * **Ponent extern**: En aquest cas caldrà especificar-ho en observacions a la FITXA ECONÒMICA, a més de fer un Informe de necessitat de contractació, que s'ha d'enviar al cap de servei de formació i orientació i al subdirector general. Aquest informe ha d'estar degudament justificat i caldrà adjuntar el currículum del ponent.
 * **Empresa externa** (**no es por realitzar cap formació d'este tipus de moment**): És l'opció menys recomanable de totes, la que més problemes dona i la que cal estar més justificada. És molt fàcil equivocar-se i que hi haja problemes amb el pagament. En aquest cas és necessari omplir els següents documents:
-  * **Informe de necessitat de contractació de l'empresa**
-  * **Autorització d'ús de materials oberts**
-  * **Autorització de gravació i difusió**
-  * **Factura proforma** de l'empresa degudament complimentada amb totes les dades necessàries. Aquestes dades són:
+  - **Informe de necessitat de contractació de l'empresa**
+  - **Autorització d'ús de materials oberts**
+  - **Autorització de gravació i difusió**
+  - **Factura proforma** de l'empresa degudament complimentada amb totes les dades necessàries. Aquestes dades són:
     * Dades de l'empresa
     * Dades del CEFIRE
     * Dades del curs: CODI i NOM

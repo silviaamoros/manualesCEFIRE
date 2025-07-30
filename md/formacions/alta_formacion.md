@@ -58,10 +58,13 @@ Posem l'àrea **97** i **consultar**
 
 ![](media/2545e3ae74dbc82c30a4c7214425e6fc71bb8406.png){: .center }
 
+!!!warning "Important"
+    Basant-se en les dates d'inscripció inici i fi... es recomana que com a mínim hi haja 1 mes d'inscripció,  1 setmana de confirmació i despublicar dos setmanes després de començar la formació.
+
 A continuació **Aplicar** per tal que aparega marcat la X en perfil i tinguem el **codi de referència.**
 
 !!!warning "Important"
-    "Important" Este pas és extremadament important, cal vore una X en el perfil, si no apareix la X i modifiques alguna cosa estaràs modificant totes les formacions del CEFIRE que "perxen" d'eixa formació i crearàs un desastres monumental.
+    "Important" Este pas és extremadament important, cal vore una X en el perfil, si no apareix la X i modifiques alguna cosa estaràs modificant totes les formacions del CEFIRE que "perxen" d'eixa formació i crearàs un **desastre monumental**.
 
 Ara caldrà introduir les característiques del curs. En la icona que hi ha al costat de la X del perfil i triar l'opció **Mantenimento**
 
@@ -136,6 +139,13 @@ Afegim nou registre i omplim la informació
     - **Descripción**: Breu descripció del curs i de les seues característiques (tarifa aplicada)
 
 I **Apliquem** i **Acceptem.**
+
+!!!warning "Important"
+    Una vegada estiga el curs és important que poseu en Kanban el curs per a que siga validat per part del director. Si no es posa en Kanban no es podrà validar.
+
+Una vegada estiga validat el curs tant per part del director com per part de la SDGFP, ja es podrà publicar i començar a gestionar les inscripcions. No em d'oblidar que si el curs és online a AULES caldrà demanar l'espai en AULES.
+
+[:simple-moodle: Demanar espai en Aules](https://forms.office.com/pages/responsepage.aspx?id=FBHdc33vx0CGaVadMufim4P9l-8HwURGslHVd49kW6BUQVk3OFgzOVBZRVpaR1JRSFk3NjIwMkpaSS4u&route=shorturl){: .md-button target="_blank"}
 
 ## PASSAR A CONFIRMAR UN CURS I BAREM
 
@@ -591,6 +601,7 @@ Una vegada seleccionat el fitxer, fem clic en "Importar" i apareixerà una panta
 !!!info "Nota"
     Es convenient abans de fer la importació massiva, comprovar si els participants estan tots com a Apto, així al posar el No Apto ja tindrem assegurats que està tot el llistat correcte.
 
+<!--
 ## PASSAR A CERTIFICAR I GENERAR CERTIFICATS
 
 !!!warning "IMPORTANT"
@@ -662,6 +673,9 @@ Per continuar caldrà treure l'ACTA FINAL, que caldrà ser signada pel coordinad
 
 Configurarem la impressora per tal que tinguem el pdf de l'acta.
 
+!!!warning "IMPORTANT"
+    Recorda que l'acta ha de tenir els logos de FSE, per tant has de marcar la casella de **Imprimir Pack Europeo(Logos FSE)**. Si es tracta d'una formació de Skills cal marcar la mateixa casella.
+
 ![](media/a419203aa13d8fc6f3e57bfa116c2675ab434dba.png){: .center }"
 
 ![](media/3f6beab7ac77d88ddeb7ab86f3713f3ad03b6747.png){: .center }"
@@ -718,3 +732,4 @@ En el motiu caldrà buscar la paraula Cefire per identificar més fàcilment i p
 Finalment donem a **Aplicar -- Aceptar**.
 
 
+-->

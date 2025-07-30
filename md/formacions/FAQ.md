@@ -25,3 +25,22 @@ Ser entidad sin ánimo de lucro que tenga entre sus finalidades la formación de
 
 En el siguiente enlace se encuentra el procedimiento habilitado para la solicitud: [Reconocimiento singular de actividades de interés formativo para la formación del profesorado. - GVA.ES - Generalitat Valenciana](https://www.gva.es/va/inicio/procedimientos?id_proc=923)
 
+## Donar alta espai en Aules
+
+L'enllaç per a donar d'alta un espai en Aules és el següent: [Donar alta espai en Aules](https://forms.office.com/pages/responsepage.aspx?id=FBHdc33vx0CGaVadMufim4P9l-8HwURGslHVd49kW6BUQVk3OFgzOVBZRVpaR1JRSFk3NjIwMkpaSS4u&route=shorturl)
+
+## Aplicació Banners
+
+Podeu utilitzar el següent enllaç per a crear un baner (només formacions online de moment):
+
+[:material-image-area: Baners](../external_html/baner/proves.html){: .md-button target="_blank"}
+
+## Aplicació crea carpeta cursos
+
+Per a Windows:
+
+[Aplicació per a crear carpetes de formacions en Windows](../Docs/carpeta_curso.exe){: .md-button target="_blank"}
+
+Per a Linux:
+
+[Aplicació per a crear carpetes de formacions en Linux](../Docs/crea_cursos_linux){: .md-button target="_blank"}
