@@ -1,7 +1,47 @@
 # Aspectes tenir en compte durant la realització de la formació
 ## Missatge benvinguda
 * L'assessor responsable de la formació o assessors en cas de ser una formació dirigida a famílies de diferents assessors han d'enviar el missatge de benvinguda.
-* Ací teniu una plantilla de missatge que podeu adaptar a les vostres preferències. [Plantilla Missatge benvinguda.](https://gvaedu.sharepoint.com/:w:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/PLANTILLAS/FORMACIONES/Mensaje%20Bienvenida%20formaciones.docx?d=we38bd6f828d44580acceea7f0183e9f0&csf=1&web=1&e=zt7r9w)
+* Ací teniu una plantilla de missatge que podeu adaptar a les vostres preferències. [Plantilla Missatge benvinguda.](https://gvaedu.sharepoint.com/:w:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DOCUMENTACI%C3%93N%20PARA%20EDICIONES/PLANTILLAS/FORMACIONES/Mensaje%20Bienvenida%20formaciones.docx?d=we38bd6f828d44580acceea7f0183e9f0&csf=1&web=1&e=zt7r9w){ :target="_blank" }
+
+```
+Benvinguts i benvingudes / Bienvenidos y bienvenidas 
+
+Bon dia a tots i totes, 
+
+Soc Glòria Muñoz, assessora de formació del CEFIRE d’FP i de la Direcció General de Formació Professional. M'encarrego del sector tecnològic, que engloba les famílies professionals d'Informàtica i Comunicacions, així com la d’Electricitat i Electrònica. També seré la responsable de la coordinació i gestió d’aquest curs. 
+
+Us donem la benvinguda al curs XXXXXX, que comença avui, i que té com a objectiu XXXXXXXX. 
+
+Els ponents i tutors del curs són XXXX, XXXXX, qui us guiaran i acompanyaran al llarg d’aquesta formació. 
+
+Desitgem que aquest curs us siga útil i que en pugueu aprofitar al màxim tots els continguts i recursos que oferim. 
+
+Per a qualsevol dubte o suggeriment, no dubteu a contactar amb nosaltres: estarem encantats d’atendre-vos i quedem totalment a la vostra disposició. 
+
+A més, en cas que tingueu alguna incidència tècnica o relacionada amb la coordinació del curs, us agrairem que ens la comuniqueu al correu electrònic fp_tecnologic@gva.es. 
+
+Comencem! 💪 
+
+-------- 
+
+Buenos días a todas y todos, 
+
+Soy Gloria Muñoz, asesora de formación del CEFIRE de FP y de la Dirección General de Formación Profesional. Me encargo del sector tecnológico, que engloba las familias profesionales de Informática y Comunicaciones, así como la de Electricidad y Electrónica. También seré la responsable de la coordinación y gestión de este curso. 
+
+ Os damos la bienvenida al curso XXXXXX, que comienza hoy y cuyo objetivo es XXXXXXXX. 
+
+ Los ponentes y tutores del curso son XXXX y XXXXX, quienes os guiarán y acompañarán a lo largo de esta formación. 
+
+  
+
+Deseamos que este curso os resulte útil y que podáis aprovechar al máximo todos los contenidos y recursos que ofrecemos.  
+
+Para cualquier duda o sugerencia, no dudéis en poneros en contacto con nosotros: estaremos encantados de atenderos y quedamos completamente a vuestra disposición.  
+
+Además, en caso de que tengáis alguna incidencia técnica o relacionada con la coordinación del curso, os agradeceremos que la comuniquéis al correo electrónico fp_tecnologic@gva.es. 
+
+ ¡Empezamos! 💪 
+```
 
 
 ## La primera setmana - Seguiment participants de la formació
@@ -9,6 +49,9 @@
 * Als participants que no han entrat al curs d'Aules, se les enviarà un missatge de correu, preguntant si volen continuar amb el curs i que en cas de no entrar en 1 dia se'ls donarà de baixa.
 * En cas que les persones que no havien entrat ens confirmen que no volen continuar amb el curs o no diguen res, se'ls donarà de baixa en Gesform i es sincronitzarà amb Aules.
 * Avisarem a la primera persona que es troba en llista d'espera per correu, diguen-li que ha sigut acceptada. Hem de seleccionar-la en Gesform i també sincronitzar en Aules, perquè aparega al curs.
+* Podeu trobar informació de com fer-ho ací:
+  
+[Com donar d'alta o de baixa participants en Gesform](alta_formacion.md#baixes-i-altes-curs){ :target="_blank" .md-button }
 
 ## Seguiment funcionament de la formació
 * Com assessors hem d'estar pendents del funcionament de la formació.
