@@ -70,18 +70,19 @@ markdown_extensions:
 theme: 
   name: material  # selecció del tema
   icon:
+    logo: material/cast-education
     annotation: material/arrow-right-circle 
-  palette:
+  palette:    
    # Boto que canvia a mode oscur
     - scheme: black
       toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
+        icon: material/weather-night
+        name: Canvia a mode fosc
     # Botó que canvia a mode clar
-    - scheme: slate
+    - scheme: default
       toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+        icon: material/weather-sunny
+        name: Canvia a mode clar
   features:
     # utilitats de copia de codi
     - content.code.copy 
