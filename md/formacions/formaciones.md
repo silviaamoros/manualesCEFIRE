@@ -1,5 +1,8 @@
 # Consideracions sobre la validació de noves formacions
 
+|Ver.|:material-tag:0.3 :date: 02/05/2025|
+
+
 És important que abans d'enviar-nos qualsevol formació a validar tingueu en compte les següent coses:
 
 ## Assegureu-se que el text és el correcte
@@ -81,6 +84,8 @@ REQUISITOS ESPECÍFICOS
 <b>Profesorado de Formación Profesional de la Familia de Informática y Comunicaciones y EAE</b> 
 
 ```
+
+
  
 ### BANERS
 
