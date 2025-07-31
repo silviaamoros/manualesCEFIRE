@@ -99,11 +99,8 @@ Un saludo.
 
 - Uns dies abans d'acabar la formació revisarem si han emplenat l'enquesta de valoració i si cal, recordarem que encara són a temps d'acabar les tasques pendents per a certificar i que si no han emplenat l'enquesta de valoració, per favor que el facen.
 - **Emmagatzemament de resultats:**
-En [Informes.](https://gvaedu.sharepoint.com/:f:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/CARPETAS%20DOC%20CURSOS/ENCUESTAS%20DE%20VALORACI%C3%93N/INFORMES?csf=1&web=1&e=6x9rAF), deixarem l'informe amb la informació general de les respostes. Cada formació ha d'estar emmagatzemada en la seua família professional.
-En [Resultats individuals.](https://gvaedu.sharepoint.com/:f:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/CARPETAS%20DOC%20CURSOS/ENCUESTAS%20DE%20VALORACI%C3%93N/RESULTATS%20INDIVIDUALS?csf=1&web=1&e=iWWf82) deixarem una còpia de l'Excel amb tota la informació de les respostes. Cada formació ha d'estar emmagatzemada en la seua família professional.
+En [Informes.](https://gvaedu.sharepoint.com/:f:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/CARPETAS%20DOC%20CURSOS/ENCUESTAS%20DE%20VALORACI%C3%93N/INFORMES?csf=1&web=1&e=6x9rAF){ :target="_blank" }, deixarem l'informe amb la informació general de les respostes. Cada formació ha d'estar emmagatzemada en la seua família professional.
+En [Resultats individuals.](https://gvaedu.sharepoint.com/:f:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/CARPETAS%20DOC%20CURSOS/ENCUESTAS%20DE%20VALORACI%C3%93N/RESULTATS%20INDIVIDUALS?csf=1&web=1&e=iWWf82){ :target="_blank" } deixarem una còpia de l'Excel amb tota la informació de les respostes. Cada formació ha d'estar emmagatzemada en la seua família professional.
 - **Dades participants formacions:**
 Durant la formació hem de revisar que totes les dades dels participants són correctes. És molt important que el **nom y cognom dels participants estiguen en majúscules.** En cas d'haver algú participant en minúscules hem d'enviar un correu a compteformacio@gva.es. **Els assessors no podem modificar cap informació de persones en Gesform**
-
-
-
 
