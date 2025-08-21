@@ -1,9 +1,11 @@
-# Benvinguts a la pàgina de tutorials per als usuaris de FP
+# Bienvenidos a la página de tutoriales del CEFIRE de Alcoi
 
-Pàgina creada en mkdocs per a més informació [mkdocs.org](https://www.mkdocs.org). És important que utilitzeu els canals habituals per a comunicar-se.
+Página creada en mkdocs. Para más información [mkdocs.org](https://www.mkdocs.org). 
 
-* [Pàgina CEFIRE](https://portal.edu.gva.es/cefire/es/inici-2-es/)
-* [Enllaç Telegram a la comunitat de CEFIRE](t.me/GVA_Cefire)
+* [Página CEFIRE](https://portal.edu.gva.es/cefire/es/inici-2-es/)
+* [Enlace Telegram a la comunidad de CEFIRE](t.me/GVA_Cefire)
+* [Normativa vigente CEFIRE](https://portal.edu.gva.es/cefire/es/normativa-es/)
+* [Normativa PAF 25-26](https://portal.edu.gva.es/cefire/es/programa-anual-de-formacio-permanent-de-centre-es/) 
 
 ## Tutorials Teams
 
