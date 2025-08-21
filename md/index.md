@@ -4,7 +4,6 @@ Pàgina creada en mkdocs per a més informació [mkdocs.org](https://www.mkdocs.
 
 * [Pàgina CEFIRE](https://portal.edu.gva.es/cefire/es/inici-2-es/)
 * [Enllaç Telegram a la comunitat de CEFIRE](t.me/GVA_Cefire)
-* [Enllaç a a pàgina FP de GVA](https://ceice.gva.es/va/web/formacion-educacion/formacion)
 
 ## Tutorials Teams
 
